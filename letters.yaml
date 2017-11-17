@@ -1,0 +1,109 @@
+a:
+  - top
+  - left
+  - right
+  - horizontal
+b:
+  - top
+  - left
+  - bottom
+  - topright
+  - bottomright
+c:
+  - top
+  - left
+  - bottom
+d:
+  - left
+  - topleft
+  - bottomleft
+e:
+  - top
+  - left
+  - bottom
+  - horizontal
+f:
+  - top
+  - left
+  - horizontal
+g:
+  - top
+  - left
+  - bottom
+  - notch
+h:
+  - left
+  - right
+  - horizontal
+i:
+  - top
+  - bottom
+  - vertical
+j:
+  - top
+  - bottom
+  - highbottomright
+k:
+  - left
+  - topright
+  - bottomright
+l:
+  - left
+  - bottom
+m:
+  - left
+  - top
+  - right
+n:
+  - left
+  - right
+  - downdiagonal
+o:
+  - top
+  - left
+  - bottom
+  - right
+p:
+  - top
+  - left
+  - topright
+q:
+  - top
+  - left
+  - bottom
+  - right
+  - notch
+r:
+  - top
+  - left
+  - topright
+  - bottomright
+s:
+  - top
+  - bottom
+  - downdiagonal
+t:
+  - top
+  - longvertical
+u:
+  - left
+  - bottom
+  - right
+v:
+  - left
+  - updiagonal
+w:
+  - left
+  - right
+  - highbottomright
+  - highbottomleft
+x:
+  - updiagonal
+  - downdiagonal
+y:
+  - top
+  - updiagonal
+z:
+  - top
+  - bottom
+  - updiagonal
